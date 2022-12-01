@@ -1,0 +1,1 @@
+# MTO_laba6.1Python
